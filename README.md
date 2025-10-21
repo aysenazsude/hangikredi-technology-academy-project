@@ -1,4 +1,4 @@
-# hangikredi-technologyschool
+# hangikredi-technology-academy-project
 
 This project uses data analysis and machine learning to improve the performance of bank marketing campaigns. The primary challenges addressed are the lack of effective customer targeting (Segmentation) and the inability to forecast campaign outcomes (Success Prediction).
 
